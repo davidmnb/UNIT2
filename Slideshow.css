@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+	align-items:center;
+	justify-items:center;
+	overflow:hidden;
+	}
+
+#img1{
+  width:auto;
+  height:500px;
+}
+
+#img2{
+  width:auto;
+  height:500px;
+}
+#maintitle {
+background-image: linear-gradient(235deg, #C1FAFD, #0C94C6, #0966B8, #0A07A2);
+height: 100vh;
+overflow: auto;
+}
